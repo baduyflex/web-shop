@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/src/Mango.Web/appsettings.Development.json
+/src/Services/Mango.Services.AuthAPI/appsettings.Development.json
+/src/Services/Mango.Services.CouponAPI/appsettings.Development.json
